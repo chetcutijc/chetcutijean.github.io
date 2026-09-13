@@ -8,13 +8,5 @@
   "background_color": "#0f0f0f",
   "theme_color": "#0f0f0f",
   "orientation": "portrait-primary",
-  "icons": [
-    {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'><rect fill='%231a1a1a' width='180' height='180' rx='39'/><circle cx='40' cy='45' r='18' fill='%2364b5f6'/><ellipse cx='40' cy='60' rx='10' ry='6' fill='%2364b5f6'/><rect x='34' y='68' width='3' height='20' fill='%2364b5f6'/><rect x='46' y='68' width='3' height='20' fill='%2364b5f6'/><g transform='translate(105,50)'><path d='M0,0 L-16,6 L-11,0 L-16,-6 Z' fill='%2364b5f6'/><rect x='-11' y='-1' width='11' height='2' fill='%2364b5f6'/><circle cx='-16' cy='0' r='10' fill='none' stroke='%2364b5f6' stroke-width='2'/></g><g transform='translate(90,130)'><polygon points='0,0 -24,16 -16,0 -24,-16' fill='%2364b5f6'/><ellipse cx='-12' cy='0' rx='14' ry='4' fill='%2364b5f6'/></g></svg>",
-      "sizes": "180x180",
-      "type": "image/svg+xml",
-      "purpose": "any"
-    }
-  ],
   "categories": ["productivity", "sports"]
 }
