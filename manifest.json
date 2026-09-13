@@ -1,0 +1,26 @@
+{
+  "name": "Jean's Projects",
+  "short_name": "Projects",
+  "description": "Triathlon, aviation, running, and gear projects",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#0f0f0f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect fill='%230f0f0f' width='192' height='192'/><circle cx='60' cy='50' r='12' fill='%2364b5f6'/><path d='M50 65 L55 75 L60 80 L65 75 L70 65' stroke='%2364b5f6' stroke-width='2' fill='none'/><path d='M45 80 L75 95' stroke='%2364b5f6' stroke-width='2' fill='none'/><path d='M50 95 L65 105 L80 95' stroke='%2364b5f6' stroke-width='2' fill='none'/><path d='M55 100 L60 115' stroke='%2364b5f6' stroke-width='2' fill='none'/><path d='M65 100 L70 115' stroke='%2364b5f6' stroke-width='2' fill='none'/><path d='M110 55 L115 90' stroke='%2364b5f6' stroke-width='2' fill='none' transform='rotate(-20 112 72)'/><circle cx='120' cy='50' r='4' fill='%2364b5f6'/><rect x='105' y='85' width='20' height='8' fill='%2364b5f6'/><path d='M95 115 Q110 105 130 115' stroke='%2364b5f6' stroke-width='2' fill='none'/><path d='M100 105 L115 95 L125 105' fill='%2364b5f6'/><circle cx='115' cy='125' r='6' fill='%2364b5f6'/><circle cx='130' cy='125' r='6' fill='%2364b5f6'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect fill='%230f0f0f' width='512' height='512'/><circle cx='160' cy='130' r='32' fill='%2364b5f6'/><path d='M130 180 L150 210 L160 225 L170 210 L190 180' stroke='%2364b5f6' stroke-width='5' fill='none'/><path d='M120 225 L200 265' stroke='%2364b5f6' stroke-width='5' fill='none'/><path d='M135 265 L180 305 L225 265' stroke='%2364b5f6' stroke-width='5' fill='none'/><path d='M150 305 L165 335' stroke='%2364b5f6' stroke-width='5' fill='none'/><path d='M180 305 L195 335' stroke='%2364b5f6' stroke-width='5' fill='none'/><path d='M310 160 L330 255' stroke='%2364b5f6' stroke-width='6' fill='none' transform='rotate(-20 320 207)'/><circle cx='345' cy='140' r='12' fill='%2364b5f6'/><rect x='295' y='260' width='55' height='22' fill='%2364b5f6'/><path d='M260 330 Q305 295 370 330' stroke='%2364b5f6' stroke-width='6' fill='none'/><path d='M280 295 L325 265 L360 295' fill='%2364b5f6'/><circle cx='325' cy='370' r='18' fill='%2364b5f6'/><circle cx='390' cy='370' r='18' fill='%2364b5f6'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["productivity", "sports"]
+}
