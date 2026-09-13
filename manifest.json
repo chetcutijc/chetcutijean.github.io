@@ -1,9 +1,9 @@
 {
   "name": "Jean's Projects",
-  "short_name": "Projects",
+  "short_name": "JC Projects",
   "description": "Triathlon, aviation, running, and gear projects",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/chetcutijean.github.io/",
+  "scope": "/chetcutijean.github.io/",
   "display": "standalone",
   "background_color": "#0f0f0f",
   "theme_color": "#0f0f0f",
